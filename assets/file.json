@@ -1,0 +1,77 @@
+{
+	"subjects": [
+		{
+			"name": "Język angielski",
+			"terms": [
+				{
+					"grades": [
+						{
+							"id": 399631,
+							"value": "1+"
+						},
+						{
+							"id": 632848,
+							"value": "3+"
+						}
+					],
+					"tempAverage": null,
+					"average": null
+				},
+				{
+					"grades": [],
+					"tempAverage": null,
+					"average": null
+				},
+				{
+					"grades": [],
+					"tempAverage": null,
+					"average": null
+				},
+				{
+					"grades": [],
+					"tempAverage": null,
+					"average": null
+				}
+			],
+			"tempAverage": null,
+			"average": null
+		},
+		{
+			"name": "Język polski",
+			"terms": [
+				{
+					"grades": [
+						{
+							"id": 397042,
+							"value": "2"
+						},
+						{
+							"id": 853160,
+							"value": "nb"
+						}
+					],
+					"tempAverage": null,
+					"average": null
+				},
+				{
+					"grades": [],
+					"tempAverage": null,
+					"average": null
+				},
+				{
+					"grades": [],
+					"tempAverage": null,
+					"average": null
+				},
+				{
+					"grades": [],
+					"tempAverage": null,
+					"average": null
+				}
+			],
+			"tempAverage": null,
+			"average": null
+		}
+		
+	]
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>158240125685-t6lkim2isfg7u2k6kpgufchsepjnlmgv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.158240125685-t6lkim2isfg7u2k6kpgufchsepjnlmgv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDrvjHzdiSxDbWHhjb7SLwxK4GvCbHmlIc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>158240125685</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.libasApp</string>
+	<key>PROJECT_ID</key>
+	<string>libras-app-7e067</string>
+	<key>STORAGE_BUCKET</key>
+	<string>libras-app-7e067.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:158240125685:ios:bc93f7d7d35757bbc80bbc</string>
+	<key>DATABASE_URL</key>
+	<string>https://libras-app-7e067-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
